@@ -1,0 +1,44 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Distribución y compilación
+build/
+dist/
+Downfry.exe
+Launcher.cs
+*.manifest
+*.spec
+!packaging/Downfry.spec
+
+# Archivos temporales y descargas parciales
+.temp/
+*.part
+*.ytdl
+*.tmp
+*.log
+errors - by myself.txt
+thumbs_cache/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Asistentes y herramientas locales
+.gemini/
+.antigravity/
+
+# Archivos del sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store

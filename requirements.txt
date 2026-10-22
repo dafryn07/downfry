@@ -1,0 +1,8 @@
+PyQt6>=6.7.0
+PyQt6-Fluent-Widgets[full]>=1.6.0
+yt-dlp>=2025.1.0
+imageio-ffmpeg>=0.5.1
+darkdetect>=0.8.0
+requests>=2.31.0
+Pillow>=10.0.0
+pywin32>=306; platform_system == "Windows"
